@@ -23,17 +23,6 @@ This project is a recreation of the popular Flappy Bird game, developed entirely
 3. Compile and run the main file (usually `FlappyBird.java`).  
 4. Press the `SPACEBAR` to make the bird jump and avoid obstacles.  
 
-=> Screenshots  
-
-Gameplay View  
-![Instructions Screenshot](screenshots/instructions.png)
-
-Game Scenario  
-![Game Screenshot](screenshots/game.png)
-
-Score Display  
-![Game Over Screenshot](screenshots/game_over.png)
-
 => Learning Objectives  
 This project helps understand concepts like:  
 - Real-time rendering and updates  
